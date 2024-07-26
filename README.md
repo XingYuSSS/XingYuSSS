@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=XingYuSSS&theme=white&include_all_commits=true&show_icons=true&hide_border=true" />
+  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=XingYuSSS&theme=white&show_icons=true&hide_border=true" />
   <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XingYuSSS&layout=compact&langs_count=6" />
 </p>
 
