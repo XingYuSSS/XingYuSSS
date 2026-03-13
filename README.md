@@ -1,13 +1,13 @@
 ## Hi there 👋
 
 <p align="center">
-  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=XingYuSSS&theme=white&show_icons=true&hide_border=true" />
-  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XingYuSSS&layout=compact&langs_count=6" />
+  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=XingYuSSS&theme=tokyonight&show_icons=true&hide_border=true" />
+  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XingYuSSS&layout=compact&theme=tokyonight&langs_count=6&hide_border=true" />
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,py,pytorch,flutter,md,vscode" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,ts,vscode,flutter,c" />
   </a>
 </p>
 
